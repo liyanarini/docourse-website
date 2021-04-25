@@ -1,0 +1,23 @@
+.course-details{
+    padding: 5px;
+}
+.course-card{
+    width: 350px;
+    background-color: lightcyan;
+    margin: 70px 40px;
+    border-radius: 5px;
+    padding: 0 0 20px 0;
+    
+}
+.card-img img{
+    width: 350px;
+    text-align: center;
+}
+.card-img{
+    text-align: center;
+}
+.category{
+    background-color: lightsalmon;
+    border: none;
+    margin: 10px 0;
+}
