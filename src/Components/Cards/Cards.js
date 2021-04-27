@@ -13,7 +13,7 @@ const Cards = (props) => {
                 <h4>{props.name}</h4>
                 <button className="category"><small>{props.category}</small></button>
                 <h5>${props.price}</h5>
-                <button className="btn btn-success">Enroll Now <FontAwesomeIcon icon={faArrowAltCircleRight} /></button>
+                <button className="btn btn-success" onClick={props.addCourseHandler}>Enroll Now <FontAwesomeIcon icon={faArrowAltCircleRight} /></button>
             </div>
         </div>
     );

@@ -1,0 +1,19 @@
+.cart-area{
+    background-color: pink;
+    margin: 100px 0;
+    padding: 20px 33%;
+}
+.main-cart{
+    background-color: aquamarine;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+.header{
+    color: blue;
+    font-weight: 700;
+}
+.check{
+    padding: 5px 15px;
+    background-image: linear-gradient(rgb(253, 177, 190), hotpink);
+    font-weight: 600;
+}
